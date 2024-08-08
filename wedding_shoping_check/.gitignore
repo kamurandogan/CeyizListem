@@ -35,6 +35,8 @@ migrate_working_dir/
 *.jks
 *.jks.old
 *.old
+*.vscode
+
 
 
 
@@ -48,6 +50,7 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+/android/
 
 # Ignore Gradle project-specific cache directory
 .gradle
