@@ -29,16 +29,17 @@
 
 ### Ana Ekran
 
-![Ana Ekran](screenshots/dowry_ss.png)
+![Screenshot_1722109005](https://github.com/user-attachments/assets/9aec3af8-0cb9-4cd6-9328-88a049d81d77)
 
 ### Menu Ekranı
 
-![Menu Ekranı](screenshots/menu_ss.png)
-
-### Çeyiz Ekranı
-
-![Çeyiz Ekranı](screenshots/dowry_ss.png)
+![Screenshot_1722109014](https://github.com/user-attachments/assets/80d47633-c3f1-4294-b874-421c7f197531)
 
 ### Ürün Ekranı
 
-![Ürün Ekranı](screenshots/produts_ss.png)
+![Screenshot_1722109020](https://github.com/user-attachments/assets/54ab6016-d4fc-4e5d-8c29-f9f567f14968)
+
+### Çeyiz Ekranı
+
+![Screenshot_1722109030](https://github.com/user-attachments/assets/5d65c3df-4d2a-43aa-b670-60f25853563c)
+
