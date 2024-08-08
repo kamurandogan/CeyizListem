@@ -29,7 +29,7 @@
 
 ### Ana Ekran
 
-![Ana Ekran](screenshots/dowry_ss.png)
+![Ana Ekran](C:/Users/Kamuran/Desktop/repo/wedding_shoping_check/screenshots/dowry_ss.png)
 
 ### Menu Ekranı
 
