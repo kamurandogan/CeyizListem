@@ -1,16 +1,44 @@
-# wedding_shopping_check
+# Wedding Shopping Check
 
-A new Flutter project.
+**Wedding Shopping Check**, evlilik hazırlıkları yapanlar için tasarlanmış bir Flutter uygulamasıdır. Bu uygulama sayesinde kullanıcılar, çeyiz listelerini takip edebilir, öğeleri yönetebilir ve eksiklerini kolayca kontrol edebilir.
 
-## Getting Started
+## Özellikler
 
-This project is a starting point for a Flutter application.
+- Önceden hazırlanmış çeyiz listelerini görüntüleme
+- Öğeleri ekleme, çıkarma ve düzenleme
+- Kullanıcı verilerini yerel olarak saklama (SharedPreferences)
+- Firebase entegrasyonu ile listeleri güncelleme
 
-A few resources to get you started if this is your first Flutter project:
+## Kurulum
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Gereksinimler
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter SDK (>= 2.10)
+- Bir Firebase projesi
+- Android Studio veya Visual Studio Code
+
+### Kurulum Adımları
+
+1. **Projeyi Kopyala:**
+
+   ```bash
+   git clone https://github.com/kamurandogan/CeyizListem.git
+   cd wedding_shopping_check
+
+## Ekran Görüntüleri
+
+### Ana Ekran
+
+![Ana Ekran](screenshots/dowry_ss.png)
+
+### Menu Ekranı
+
+![Menu Ekranı](screenshots/menu_ss.png)
+
+### Çeyiz Ekranı
+
+![Çeyiz Ekranı](screenshots/dowry_ss.png)
+
+### Ürün Ekranı
+
+![Ürün Ekranı](screenshots/produts_ss.png)
