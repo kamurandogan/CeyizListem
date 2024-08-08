@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1006238300760",
+    "project_id": "wedding-shopping-check",
+    "storage_bucket": "wedding-shopping-check.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006238300760:android:c71571dfdc7e403370282d",
+        "android_client_info": {
+          "package_name": "com.kamurandev.wedding_shopping_check"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZjNDJkbLbVW314G1Ee_n8y8Z1GCCQBEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      },
+      "admob_app_id": "ca-app-pub-4956813096612262~1056110575"
+    }
+  ],
+  "configuration_version": "1"
+}

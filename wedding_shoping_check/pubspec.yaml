@@ -1,0 +1,59 @@
+name: wedding_shopping_check
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+41
+
+environment:
+  sdk: '>=3.1.3 <4.0.0'
+
+dependencies:
+  bloc: ^8.1.4
+  cloud_firestore: ^4.9.3
+  cupertino_icons: ^1.0.2
+  dotenv: ^4.2.0
+  equatable: ^2.0.5
+  firebase_auth: ^4.10.1
+  firebase_core: ^2.17.0
+  firebase_database: ^10.2.7
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.6
+  flutter_dotenv: ^5.1.0
+  flutter_svg: ^2.0.9
+  gen:
+    path: modules/gen
+  google_mobile_ads: ^3.1.0
+  image_picker: ^1.0.4
+  logger: ^2.3.0
+  percent_indicator: ^4.2.3
+  shared_preferences: ^2.2.2
+  syncfusion_flutter_charts: ^23.1.44
+  widgets:
+    path: modules/widgets
+
+dev_dependencies:
+  flutter_lints: ^3.0.1
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - .env
+
+  fonts:
+
+    - family: Sometype Mono
+      fonts:
+        - asset: assets/fonts/SometypeMono-VariableFont_wght.ttf
+    - family: Quicksand
+      fonts:
+        - asset: assets/fonts/Quicksand-Light.ttf
+    - family: Exo
+      fonts:
+        - asset: assets/fonts/Exo-VariableFont_wght.ttf
